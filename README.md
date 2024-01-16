@@ -8,3 +8,4 @@ I attached some images with logs that indicate weird behaviour.
 
 Maybe some problems with operating system (MacOS), but I couldn't find the root cause.
 
+Also my Macbook extremely heats after starting airflow server and scheduler, even without any dugs running.
